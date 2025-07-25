@@ -1,0 +1,21 @@
+body {
+    background-color: lavender;
+}
+h2 {
+    font-family: cursive;
+    color: #187bcd;
+}
+
+h1, p {
+       color: red;
+        font-family: fantasy;
+        }    
+        strong {
+        color: #FF13F0;
+        }
+        h2 {
+            text-align: center;
+        }
+img {
+    width:200px;
+    height:400px}
